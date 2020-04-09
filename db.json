@@ -2,25 +2,25 @@
   "faq": [
     {
       "language": "ENGLISH",
-      "question": "MWhat is insurance?",
+      "question": "New!What is insurance?",
       "answer": "We face a lot of risks in our daily lives. Some of these lead to financial losses. Insurance is a way of protecting against these financial losses. For a payment (premium), an insurance company will take the responsibility of compensating your financial losses",
       "version": 2
     },
     {
       "language": "ENGLISH",
-      "question": "MWhat is general insurance?",
+      "question": "New!What is general insurance?",
       "answer": "Insuring anything other than human life is called general insurance. Examples are insuring property like house and belongings against fire and theft or vehicles against accidental damage or theft. Injury due to accident or hospitalisation for illness and surgery can also be insured. Your liabilities to others arising out of the law can also be insured and is compulsory in some cases like motor third party insurance.",
       "version": 2
     },
     {
       "language": "MYANMAR",
-      "question": "Mအာမခံဆိုသည်မှာအဘယ်နည်း။",
+      "question": "New!အာမခံဆိုသည်မှာအဘယ်နည်း။",
       "answer": "အာမခံဆိုသည်မှာ",
       "version": 2
     },
     {
       "language": "MYANMAR",
-      "question": "Mအထွေထွေအာမခံဆိုသည်မှာ အဘယ်နည်း။",
+      "question": "New!အထွေထွေအာမခံဆိုသည်မှာ အဘယ်နည်း။",
       "answer": "အာမခံဆိုသည်မှာ",
       "version": 2
     }
