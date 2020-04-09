@@ -24,5 +24,14 @@
       "answer": "အာမခံဆိုသည်မှာ",
       "version": 2
     }
-  ]
+  ],
+  "productSpec": [
+  {
+    "productId": "PRD021",
+    "title_en": "Cash in safe Insurance",
+    "title_mm": "ငွေသားလုံခြုံမှုအာမခံ",
+    "content_en": "<html><body style='color:#009586;text-shadow: 0.5px 0.5px #DDD9D' ><p style='text-align: center;'><strong><span style='font-size: x-large;'>Cash in safe Insurance</span></strong></p><p>Cash in safe insurance is for government and private owned businesses to cover the loss of saved money by Burglary, theft and armed robbery.</p><p><strong><u>Insurance period</u></strong></p><p>From 1 day to 1 year</p><p><strong><u>Sum insured</u></strong></p><p>Depend on the amount of money</p><p><strong><u>Premium rates and payment</u></strong></p><p>For government and private banks, the highest premium rate is 0.50% and the minimum rate is 0.20% of the sum insured.</p><p>For private business - standard rate 1%.</p><p><strong><u>Claim</u></strong></p><p>The insured person has to contact the respective insurance company immediately when loss occurs.</p><p>The insured person has to report to the police.</p><p>Appropriate documents, daily records and reports will be required.</p></body></html>",
+    "version": 2
+  }
+ ]
 }
